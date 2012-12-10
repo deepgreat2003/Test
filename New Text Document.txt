@@ -1,0 +1,5 @@
+1. membuat folder kosong untuk repository local
+
+2. inisialisasi repository local
+    
+     git init
